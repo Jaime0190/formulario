@@ -1,0 +1,21 @@
+form{ 
+width:70%;
+border:7px solid#008080;
+margin: 20px;
+padding:20px;
+}
+label{
+	font-size:16px;
+	display:block;
+	width:100%;
+
+}
+
+textarea{
+	resize:vertical;
+	max-height:300px;
+	min-height:100px;
+}
+input, textarea{
+	margin-bottom: 20px;
+	width:75%;
